@@ -2,9 +2,9 @@ UPLOADING DISPLAY ONE
 _____________________
 
 
-Este repositorio contiene el cuarto display elaborado con CSS y HTML
+Este repositorio contiene el primer display elaborado con CSS y HTML
 
 
 
 La página se mostrará del siguiente modo
-![recursos](assets/img/DisplayFour.png)
+![recursos](assets/img/DisplayOne.png)
